@@ -1,0 +1,12 @@
+Configuration file: /DATA/projects/learn/front-end/static-site_generators/jekyll_with_github/plants/_config.yml
+Configuration file: /DATA/projects/learn/front-end/static-site_generators/jekyll_with_github/plants/_config.yml
+            Source: /DATA/projects/learn/front-end/static-site_generators/jekyll_with_github/plants
+       Destination: /DATA/projects/learn/front-end/static-site_generators/jekyll_with_github/plants/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+                    done in 0.286 seconds.
+ Auto-regeneration: enabled for '/DATA/projects/learn/front-end/static-site_generators/jekyll_with_github/plants'
+Configuration file: /DATA/projects/learn/front-end/static-site_generators/jekyll_with_github/plants/_config.yml
+    Server address: http://127.0.0.1:4000/
+  Server running... press ctrl-c to stop.
+[2017-04-19 22:56:52] ERROR `/favicon.ico' not found.
